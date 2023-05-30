@@ -1,6 +1,6 @@
 #                                                                    *Ayano* <img src="https://cdn.discordapp.com/emojis/1008580509003165766.gif?size=96&quality=lossless" height="30px" width="30px"/> 
 
-<p align="center">Call me Ayano, I am 18 years old and I live in Brazil.
+<p align="center">Call me Ayano. I am 18 years old and I live in Brazil.
 </p>
 
 <p align="center">I want to become a back-end programmer and I strive for it.
