@@ -17,7 +17,6 @@
 [![forthebadge](https://cdn.discordapp.com/emojis/759787810382675968.webp?size=96&quality=lossless)](https://github.com/4y4n0)
 
 <code><img height="30" src="https://cdn.discordapp.com/emojis/1046928435706081384.webp?size=96&quality=lossless"></code>
-<code><img height="30" src="https://cdn.discordapp.com/emojis/1104117784662769694.webp?size=96&quality=lossless"></code>
 <code><img height="30" src="https://cdn.discordapp.com/emojis/746884552395325490.webp?size=96&quality=lossless"></code>
 
  #                                                                    *Contact*
